@@ -16,6 +16,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+#
+# THEME = "/home/mateo/code/resume"
+THEME = "/home/mateo/code/Flex"
+
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
@@ -24,7 +28,8 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+          ('Twitter', 'https://twitter.com/MateoLpezEspejo'),
+          ('Google Scholar', 'https://scholar.google.com/citations?user=YR3lRLQAAAAJ&hl=en'))
 
 DEFAULT_PAGINATION = 10
 

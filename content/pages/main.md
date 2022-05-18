@@ -1,5 +1,6 @@
-![An happy looking man in fencing gear]({static}/images/happy_fencer.jpg)
+Title: main
 
+![An happy looking man in fencing gear]({static}/images/happy_fencer.jpg)
 
 <hr/>
 
@@ -17,8 +18,9 @@ weaves glass with light<br/>
 controls the electron<br/>
 
 old myths find new mysteries<br/>
-what is the common secret<br/>
-of flesh and silicon<br/>
+in search of the common function<br/>
+of flesh and silicon junction<br/>
+a stride in human history
 
 <hr/>
 
