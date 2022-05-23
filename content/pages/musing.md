@@ -1,7 +1,8 @@
 Title: Musings
-date: 2022-03-01
+lang: en
+page_order: 003
 
-### Musings
+<hr/>
 
 How is it that a tangle of cells<br/>
 uncomprehensible gordian knot<br/>
@@ -18,4 +19,3 @@ old myths find new mysteries<br/>
 in search of the common function<br/>
 of flesh and silicon junction<br/>
 a stride in human history
-

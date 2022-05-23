@@ -1,17 +1,20 @@
 Title: research
+lang: en
+page_order: 002
+
+<hr/>
 
 ## Overview
 
-<hr/>
 I use multy electrode array electrophysiology on awake and listening animals to record the responses of their auditory
 cortex to sounds. I then use computational methods to model how past and ongoing sounds are represented by neurons in
 a population and potential circuit. With this I hope to understand how the brain accumulates, transforms and relays
 information, representations and abstractions, and howe we can draw inspirations from these algorithms to engineer 
 smarter artificial intelligence.
 
-## Projects
-
 <hr/>
+
+## Projects
 
 ### Contextual representation and sparse coding
 
@@ -34,9 +37,3 @@ We have shown how short term plasticity happening independently for different sp
 predict the recorded neural activity, and is also capable of recapitulating stimulus specific adaptation, a response
 property seen across brain regions and species. See [*Lopez Espejo et al.,
 2019*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007430)
-
-
-
-
-
-
