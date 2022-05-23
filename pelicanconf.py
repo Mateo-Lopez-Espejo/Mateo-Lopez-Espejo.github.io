@@ -2,7 +2,7 @@ from datetime import datetime
 
 AUTHOR = "Mateo Lopez Espejo"
 # SITEURL = "http://localhost:8000"
-SITEURL = 'https://mateo-lopez-espejo.github.io.'
+SITEURL = 'https://mateo-lopez-espejo.github.io'
 SITENAME = "Mateo Lopez Espejo"
 SITETITLE = "Mateo Lopez Espejo"
 SITESUBTITLE = " Neuroscience PhD?"
