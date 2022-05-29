@@ -14,7 +14,8 @@ working under the supervision of Dr. Stephen David.<br/>
 My research focuses on how the brain keeps track of past stimuli, and how this temporal context influences
 the representation of incoming stimuli. For more delails visit my [research page](https://mateo-lopez-espejo.github.io./pages/research.html).
 
-I am also a historical fencer, climber, biker, jokester and a dubious 
+I am also a historical fencer, climber, biker, and a dubious 
+[comedian](https://mateo-lopez-espejo.github.io./pages/testimonials.html),
 [poet](https://mateo-lopez-espejo.github.io./pages/musings.html) and philosopher.
 
 <hr/>
