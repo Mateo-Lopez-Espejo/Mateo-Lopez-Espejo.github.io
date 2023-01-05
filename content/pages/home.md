@@ -8,11 +8,13 @@ page_order: 001
 
 ## About me
 
-I am currently a PhD candidate at the [Laboratory of Brain Hearing and Behavior](https://hearingbrain.org/) in the
-[Neuroscience Graduate Program at Oregon Health & Science University](https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program)
-working under the supervision of Dr. Stephen David.<br/>
-My research focuses on how the brain keeps track of past stimuli, and how this temporal context influences
-the representation of incoming stimuli. For more delails visit my [research page](https://mateo-lopez-espejo.github.io./pages/research.html).
+My PhD research focused on sound integration over time at
+[Oregon Health & Science University](https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program)
+in the group of [Dr. Stephen David](https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program).
+<br/> I investigated how the contexts of recent sound changes the response to ongoing stimuly,
+the physiological mechanisms underlying these effects, and how the representation of context
+effects is distributed across a population of neurons.
+For more details visit my [research page](https://mateo-lopez-espejo.github.io./pages/research.html).
 
 I am also a historical fencer, climber, biker, and a dubious 
 [comedian](https://mateo-lopez-espejo.github.io./pages/testimonials.html),
@@ -23,7 +25,7 @@ I am also a historical fencer, climber, biker, and a dubious
 ## Education
 
 **Oregon Health and Science University**, Portland, OR<br/>
-Neuroscience, *PhD* (ongoing)
+Neuroscience, *PhD*
 
 **Universidad Nacional de Colombia**, Bogota, Colombia<br/>
 Biology, *B.A.*

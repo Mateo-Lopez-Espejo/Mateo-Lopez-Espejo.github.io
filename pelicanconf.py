@@ -1,12 +1,16 @@
 from datetime import datetime
 
-AUTHOR = "Mateo Lopez Espejo"
-# SITEURL = "http://localhost:8000"
-SITEURL = 'https://mateo-lopez-espejo.github.io'
-SITENAME = "Mateo Lopez Espejo"
-SITETITLE = "Mateo Lopez Espejo"
-SITESUBTITLE = " Neuroscience PhD?"
-SITEDESCRIPTION = "Personal page and future blog (?)"
+# If your site is available via HTTPS, make sure SITEURL begins with https://
+SITEURL = "http://localhost:8000"
+# SITEURL = 'https://mateo-lopez-espejo.github.io'
+RELATIVE_URLS = False
+
+
+AUTHOR = "Mateo López Espejo"
+SITENAME = "Mateo López Espejo"
+SITETITLE = "Mateo López Espejo"
+SITESUBTITLE = " Neuroscience PhD"
+SITEDESCRIPTION = "Personal page and blog"
 SITELOGO = SITEURL + '/images/happy_fencer.jpg'
 FAVICON = SITEURL + '/images/happy_fencer.jpg'
 BROWSER_COLOR = "#333333"
@@ -33,7 +37,7 @@ OG_LOCALE = "en_US.utf8"
 LOCALE = "en_US.utf8"
 
 DATE_FORMATS = {
-    "en": "%B %d, %Y",
+    "en": "%Y-%m-%d",
 }
 
 # FEED_ALL_ATOM = "feeds/all.atom.xml"
@@ -45,6 +49,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 USE_FOLDER_AS_CATEGORY = True
+
+# Avoids a page listing all blog pages, instead uses one blog page as a home page, with no tags
 MAIN_MENU = False
 HOME_HIDE_TAGS = True
 
@@ -53,13 +59,13 @@ DISPLAY_PAGES_ON_MENU = True
 PAGES_SORT_ATTRIBUTE = "page_order"
 
 LINKS = (
-    ("CV", SITEURL + "/pdfs/LopezEspejoCV_2022-05-22.pdf"),
+    ("CV", SITEURL + "/pdfs/LopezEspejoCV_2023-01-04.pdf"),
 )
 
 SOCIAL = (
-    ("github", "https://github.com/Mateo-Lopez-Espejo"),
+    ("mastodon", "https://neuromatch.social/@MateoLopezEspejo"),
     ("google", "https://scholar.google.com/citations?user=YR3lRLQAAAAJ&hl=en"),
-    ("twitter", "https://twitter.com/MateoLpezEspejo")
+    ("github", "https://github.com/Mateo-Lopez-Espejo"),
 )
 
 # MENUITEMS = (
@@ -88,5 +94,7 @@ THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 USE_LESS = True
 
-LOAD_CONTENT_CACHE = False
-DELETE_OUTPUT_DIRECTORY = True
+LOAD_CONTENT_CACHE = True
+CACHE_PATH = "cache/"
+
+DELETE_OUTPUT_DIRECTORY = False
