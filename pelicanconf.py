@@ -1,8 +1,8 @@
 from datetime import datetime
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = "http://localhost:8000"
-# SITEURL = 'https://mateo-lopez-espejo.github.io'
+SITEURL = 'https://mateo-lopez-espejo.github.io'
+# SITEURL = "http://localhost:8000" # uncomment, run 'pelican -l -r' ,and go to localhost:8000
 RELATIVE_URLS = False
 
 
@@ -18,7 +18,8 @@ PYGMENTS_STYLE = "monokai"
 
 ROBOTS = "index, follow"
 
-THEME = "/home/mateo/code/Flex"
+# THEME = "/home/mateo/code/Flex"
+THEME = "Flex"
 PATH = "content/"
 OUTPUT_PATH = "output"
 TIMEZONE = "America/Vancouver"
