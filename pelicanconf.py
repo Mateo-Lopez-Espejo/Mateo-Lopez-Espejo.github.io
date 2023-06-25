@@ -1,8 +1,8 @@
 from datetime import datetime
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://mateo-lopez-espejo.github.io'
-# SITEURL = "http://localhost:8000" # uncomment, run 'pelican -l -r' ,and go to localhost:8000
+# SITEURL = 'https://mateo-lopez-espejo.github.io'
+SITEURL = "http://localhost:8000" # uncomment, run 'pelican -l -r' ,and go to localhost:8000
 RELATIVE_URLS = False
 
 
@@ -60,7 +60,7 @@ DISPLAY_PAGES_ON_MENU = True
 PAGES_SORT_ATTRIBUTE = "page_order"
 
 LINKS = (
-    ("CV", SITEURL + "/pdfs/LopezEspejoCV_2023-01-04.pdf"),
+    ("CV", SITEURL + "/pdfs/MateoLopezEspejoCV.pdf"),
 )
 
 SOCIAL = (

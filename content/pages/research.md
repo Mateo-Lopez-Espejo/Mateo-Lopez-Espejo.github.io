@@ -25,7 +25,8 @@ gyrus (PEG), a secondary auditory cortex region. This contextual modulation last
 the archetypal integration window of A1 and PEG spectro-temporal receptive fields (STRF). Furthermore, it is distributed
 in a sparse code across neurons in a local population. Finally, we have shown that models containing local synaptic 
 connections, surrogate for recurrent connections, better capture the response of neurons to sound, alongside the 
-aforementioned contextual modulation. Not yet published.
+aforementioned contextual modulation. See [A sparse code for natural sound context in auditory cortex
+](https://doi.org/10.1101/2023.06.14.544866).
 
 ### Short term plasticity and stimulus specific adaptations
 
@@ -35,5 +36,5 @@ don't fully understand how this STP acts in the context of populations and circu
 stimuli.
 We have shown how short term plasticity happening independently for different spectral input channels can better
 predict the recorded neural activity, and is also capable of recapitulating stimulus specific adaptation, a response
-property seen across brain regions and species. See [*Lopez Espejo et al.,
-2019*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007430)
+property seen across brain regions and species. See [Spectral tuning of adaptation supports coding of sensory context 
+in auditory cortex](https://doi.org/10.1371/journal.pcbi.1007430)
