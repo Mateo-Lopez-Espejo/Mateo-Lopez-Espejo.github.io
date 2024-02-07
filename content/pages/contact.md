@@ -4,4 +4,4 @@ page_order: 005
 
 <ht/>
 
-[*lopezesp@ohsu.edu*](mailto:lopezesp@ohsu.edu)
+<img src="../images/email.png" alt="an email address" width="400"/>

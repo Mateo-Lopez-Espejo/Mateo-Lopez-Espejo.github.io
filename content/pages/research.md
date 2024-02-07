@@ -26,7 +26,7 @@ the archetypal integration window of A1 and PEG spectro-temporal receptive field
 in a sparse code across neurons in a local population. Finally, we have shown that models containing local synaptic 
 connections, surrogate for recurrent connections, better capture the response of neurons to sound, alongside the 
 aforementioned contextual modulation. See [A sparse code for natural sound context in auditory cortex
-](https://doi.org/10.1101/2023.06.14.544866).
+](https://doi.org/10.1016/j.crneur.2023.100118).
 
 ### Short term plasticity and stimulus specific adaptations
 
