@@ -12,7 +12,7 @@ SITETITLE = "Mateo López Espejo"
 SITESUBTITLE = " Neuroscience PhD"
 SITEDESCRIPTION = "Personal page and blog"
 SITELOGO = SITEURL + '/images/happy_fencer.jpg'
-FAVICON = SITEURL + '/images/happy_fencer.jpg'
+FAVICON = SITEURL + '/images/sword_brain.ico'
 BROWSER_COLOR = "#333333"
 PYGMENTS_STYLE = "monokai"
 

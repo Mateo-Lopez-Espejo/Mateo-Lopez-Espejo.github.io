@@ -16,6 +16,10 @@ the physiological mechanisms underlying these effects, and how the representatio
 effects is distributed across a population of neurons.
 For more details visit my [research page](https://mateo-lopez-espejo.github.io./pages/research.html).
 
+Currently I am interested in more integrative questions, like how perception and
+internal states interact to enact and update motor control, motor programs, and 
+ultimately behavior.
+
 I am also a historical fencer, climber, biker, and a dubious 
 [comedian](https://mateo-lopez-espejo.github.io./pages/testimonials.html),
 [poet](https://mateo-lopez-espejo.github.io./pages/musings.html) and philosopher.
